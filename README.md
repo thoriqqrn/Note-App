@@ -1,6 +1,7 @@
-# crud_firebase
+# Note App Using Cloud FireStore Database
 
 A new Flutter project.
+![image](https://github.com/thoriqqrn/Note-App/assets/153405232/a2e3d724-a0e9-4e3a-95d5-a5ae33fb8920)
 
 ## Getting Started
 
